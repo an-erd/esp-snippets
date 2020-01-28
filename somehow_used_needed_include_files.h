@@ -1,0 +1,25 @@
+// #include <stdint.h>
+// #include <string.h>
+// #include <stdbool.h>
+// #include <stdio.h>
+// #include <stdlib.h>
+// #include <string.h>
+// #include <errno.h>
+// #include <sys/time.h>
+// #include <unistd.h>
+// #include <sys/fcntl.h>
+// #include "esp_attr.h"
+// #include "esp_sleep.h"
+// #include "esp_event.h"
+// #include "esp_event_loop.h"
+// #include "esp_system.h"
+// #include "esp_heap_caps.h"
+// #include "freertos/FreeRTOS.h"
+// #include "freertos/task.h"
+// #include "freertos/event_groups.h"
+// #include "esp_event_base.h"
+
+// #include "driver/gpio.h"
+// #include "driver/ledc.h"
+// #include "tftspi.h"
+// #include "tft.h"
